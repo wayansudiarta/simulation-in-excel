@@ -1,3 +1,3 @@
 # simulation-in-excel
 
-Repository for doing simulation in Excel.
+Repository for doing simulations in Excel.
